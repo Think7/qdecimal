@@ -12,8 +12,6 @@ DEPENDPATH += .
 TARGET = decnumber
 DESTDIR = ../lib
 
-
-
 # Input
 HEADERS += decContext.h \
            decDouble.h \
